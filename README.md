@@ -5,4 +5,5 @@ Libraries used:
 - os
 ## Project_Notes
 Project_status:
-The project now displays a ship at bottom of a the screen that can go left and right within boundary and shot bullets, There can be 3 bullets for the ship to shoot at a time.
+The project now displays a ship at bottom of the screen with a row of enemies above. The next step is to make them move.
+
